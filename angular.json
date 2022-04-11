@@ -109,5 +109,8 @@
       }
     }
   },
-  "defaultProject": "chalo0"
+  "defaultProject": "chalo0",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
